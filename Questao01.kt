@@ -1,0 +1,7 @@
+fun main() {
+    for (i in 10 downTo 1) {
+        println(i)
+    }
+
+    println("Contagem finalizada! VAI!")
+}
